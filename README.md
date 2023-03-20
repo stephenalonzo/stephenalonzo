@@ -1,6 +1,6 @@
 ### Hello World, I'm Stephen. 👋
 
-I'm a passionate and well-qualified developer with top-notch communication and multitasking skills with a proactive mentality and flexible approach to problem solving.
+I'm a passionate web developer with top-notch communication and multitasking skills with a proactive mentality and flexible approach to problem solving.
 
 Technologies I love working with:
 
