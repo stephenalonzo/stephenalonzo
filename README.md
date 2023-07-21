@@ -4,7 +4,7 @@ I'm a passionate web developer with top-notch communication and multitasking ski
 
 Technologies I love working with:
 
-![](https://img.shields.io/badge/PHP-%5E7.x-%237A86B8)
+![](https://img.shields.io/badge/PHP-%5E5.x-%237A86B8)
 ![](https://img.shields.io/badge/MVC-Laravel-red)
 ![](https://img.shields.io/badge/JS-jQuery-blue)
 ![](https://img.shields.io/badge/JS-Alpine.js-blue)
